@@ -1,0 +1,15 @@
+{
+    "Niko": {
+        "name": "Niko",
+        "password": "Nikoto"
+    },
+    "Milo":{
+        "name":"Milo",
+        "password":"Mifeu"
+    },
+
+    "Simon":{
+        "name":"Simon",
+        "password":"Saumon"
+    }
+}
