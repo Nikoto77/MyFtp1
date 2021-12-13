@@ -48,5 +48,5 @@ This project is not complete but it works. Enjoy !
 
 ## Acknowledgments
 
-* if you want to put me a good rating for a noob of conding, I will be very happy.
+* if you want to put me a good rating for a noob of coding, I will be very happy.
 
