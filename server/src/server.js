@@ -36,7 +36,7 @@ export function launch(port) {
           socket.write(checkPassword(args,allSockets,socket));
           break;
         case "LIST":
-          socket.write(`Current directory filenames: ${list()}\r\n`);
+          socket.write(`List directory filenames: ${list()}\r\n`);
           break;
         case "CWD":
           socket.write(`Now You are in: ${cwd(args)}\r\n`);
